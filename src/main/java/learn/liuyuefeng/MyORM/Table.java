@@ -1,4 +1,4 @@
-package learn.liuyuefeng.demo;
+package learn.liuyuefeng.MyORM;
 
 
 import java.lang.annotation.ElementType;

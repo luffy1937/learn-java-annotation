@@ -1,7 +1,5 @@
-package learn.liuyuefeng.demo;
+package learn.liuyuefeng.MyORM;
 
-
-import java.lang.annotation.Target;
 
 @Table("user")
 public class Filter {
